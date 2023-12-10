@@ -1,0 +1,14 @@
+/* ---This is the styling for the NavBar---*/
+  nav {
+    border-bottom: 4px solid black;
+    text-align: center;
+    width: 100%;
+    background: black;
+  }
+
+  .btn {
+    justify-content: center;
+    margin-right: 6px;
+    width: 150px;
+  }
+
